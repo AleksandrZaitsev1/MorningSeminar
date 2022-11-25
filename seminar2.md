@@ -8,4 +8,5 @@
 
 ## Branch merging
 
+Git merge branch name  - Команда осуществляющая слияние текущей ветки 
 ## Conflicts
