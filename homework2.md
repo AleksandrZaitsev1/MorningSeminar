@@ -11,4 +11,4 @@
 1. ***Git branch _name*** - Создание новой ветки
 2. ***Git branch*** – Просмотр имеющихся веток
 3. ***Git checkout branch_name*** – переход между ветками
-4. ***Git merge branch_name*** - слияние веток 
+4. ***Git merge branch_name*** - слияние веток
